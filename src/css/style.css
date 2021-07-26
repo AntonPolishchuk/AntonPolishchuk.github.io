@@ -77,7 +77,7 @@ nav {
 .info {
     margin: 0 0 38px 600px;
     width: 730px;
-    color: #717883;
+    color: #3f495a;
     font-family: Calibri, sans-serif;
     font-size: 16px;
 }
@@ -95,24 +95,172 @@ nav {
 .download a {
     color: #6f707e;
 }
+.section_1 {
+    background: url(../img/fon_1.jpg) no-repeat;
 
+}
+.section_1 h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #263244;
+    padding: 105px 0 28px 0;
+    font-weight: bold;
+}
+.cherta_zagalovka {
+    margin: 0 auto 0 auto;
+    display: block;
+    padding: 0 0 103px 0;
+}
+.web {
+    display: inline-block;
+    margin: 0 82px 92px 417px;
+    width: 210px;
+    text-align: center;
+    color: #3f495a;
+    font-size: 14px;
+}
+.develop {
+    display: inline-block;
+    margin: 0 82px 92px 0;
+    width: 210px;
+    text-align: center;
+    color: #3f495a;
+    font-size: 14px;
+}
+.ceo {
+    display: inline-block;
+    margin: 0 82px 92px 0;
+    width: 210px;
+    text-align: center;
+    color: #3f495a;
+    font-size: 14px;
+}
+.market {
+    display: inline-block;
+    margin: 0 82px 92px 0;
+    width: 210px;
+    text-align: center;
+    color: #3f495a;
+    font-size: 14px;
+}
+.chapter_section_1 {
+    color: #cf7600;
+    font-size: 14px;
+    margin: 35px 0 17px 0;
+}
+.section_2 h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #263244;
+    padding: 105px 0 28px 0;
+    font-weight: bold;
+}
 
+.section_2 .cherta_zagalovka {
+    padding: 0 0 37px 0;
+}
+.section_2 .info {
+    width: 800px;
+    margin-bottom: 42px
+}
+.screenshot {
+    margin-left: 388px;
+    height: 590px;
+}
+.website1{
+    display: inline-block;
+}
+.website2 {
+    display: inline-block;
+    margin-left:  105px;
+}
+.client {
+    margin-left: 388px;
+    margin-bottom: 14px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #263244;
+    font-weight: bold;
 
+}
+.company {
+    margin-left: 388px;
+    margin-bottom: 14px;
+    font-size: 12px;
+    color: #3f495a;
+}
+.name-project {
+    font-size: 18px;
+    color: #263244;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+.about-project {
+    width: 850px;
+    color: #3f495a;
+    font-size: 16px;
+    line-height: 25px;
+}
+.website form {
+    margin-left: 388px;
+    border-radius: 5px;
+    width: 200px;
+    height: 46px;
+    text-align: center;
+    line-height: 48px;
+    text-transform: uppercase;
+    background: #63b5ae;
+}
+.website button {
+    text-transform: uppercase;
+    background: #63b5ae;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    width: 200px;
+    height: 46px;
+    border-radius: 5px;
+}
+.section_3 h2 {
+    margin: 200px auto 57px auto;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #263244;
+    font-weight: bold;
+}
+.calculation {
+    margin: 0 0 20px 600px;
+    text-transform: uppercase;
+    color: #263244;
+    font-size: 20px;
+    font-weight: bold;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.section_3 select {
+    margin: 0 0 35px 600px;
+    width: 693px;
+    height: 58px;
+    background: #eeeeee;
+    padding-left: 25px;
+    color: #263244;
+    font-size: 16px;
+}
+.cherta {
+    background: #d1d1d1;
+    width: 693px;
+    height: 2px;
+    margin: 0 0 23px 600px;
+}
+.term_cost p {
+    margin: 0 0 24px 600px;
+    width: 693px;
+    color: #1c2534;
+    font-size: 15px;
+    font-weight: 700;
+}
 
 
 
