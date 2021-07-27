@@ -148,6 +148,7 @@ nav {
     color: #cf7600;
     font-size: 14px;
     margin: 35px 0 17px 0;
+    font-weight: 600;
 }
 .section_2 h2 {
     font-size: 24px;
@@ -261,6 +262,204 @@ nav {
     font-size: 15px;
     font-weight: 700;
 }
+.section_4 {
+    background: url(../img/fon_2.png);
+    height: 499px;
+    margin: 154px 0 0 0;
+}
+.section_4 h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #263244;
+    padding: 105px 0 28px 0;
+    font-weight: bold;
+}
+.section_4 .cherta_zagalovka {
+    padding: 0 0 86px 0;
+}
+.clients {
+    display: inline-block;
+    margin: 0 160px 0 439px;
+    text-align: center;
+}
+.time {
+    display: inline-block;
+    margin: 0 155px 0 0;
+    text-align: center;
+}
+.projects {
+    display: inline-block;
+    margin: 0 155px 0 0;
+    text-align: center;
+}
+.prize {
+    display: inline-block;
+    text-align: center;
+}
+.chapter_section_4 {
+    color: #323e4f;
+    font-size: 28px;
+    font-weight: 900;
+    padding: 35px 0 35px 0;
+
+}
+.text_section_4 {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #323e4f;
+}
+.section_5 h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #263244;
+    padding: 105px 0 28px 0;
+    font-weight: bold;
+}
+.section_5 .cherta_zagalovka {
+    padding: 0 0 55px 0;
+}
+.comment_1 img {
+    margin: 0 0 36px 900px;
+}
+.text_comment {
+    text-align: center;
+    width: 690px;
+    margin: 0 0 39px 595px;
+    color: #3f495a;
+    font-size: 14px;
+}
+.name_comment {
+    text-align: center;
+    color: #3f495a;
+    font-size: 14px;
+    margin: 0 0 150px 0;
+}
+.name_comment span {
+    font-weight: bold;
+    color: #3f495a;
+}
+.my_contacts {
+    background: url(../img/fon_3.png);
+}
+.my_contacts h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    padding: 105px 0 32px 0;
+    font-weight: bold;
+}
+.my_contacts .cherta_zagalovka {
+    padding: 0 0 32px 0;
+}
+.text_contacts {
+    color: #fff;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.geo {
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    margin: 0 103px 39px 630px;
+}
+.geo img {
+    margin: 0 0 13px 0;
+}
+.convert {
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    margin: 0 103px 39px 0;
+}
+.convert img {
+    margin: 0 0 13px 0;
+}
+.convert a {
+    color: #fff;
+}
+.truba {
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+}
+.truba img {
+    margin: 0 0 13px 0;
+}
+.truba a {
+    color: #fff;
+}
+.message {
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 46px;
+}
+.name{
+    margin: 0 30px 0 595px;
+    height: 33px;
+    width: 350px;
+    color: #676769;
+    padding: 0 0 0 13px;
+    background-color: #d2d6dc;
+}
+.email{
+    height: 33px;
+    width: 350px;
+    padding: 0 0 0 13px;
+    background-color: #d2d6dc;
+}
+.text {
+    margin: 12px 0 28px 595px;
+    width: 733px;
+    height: 94px;
+    padding: 0 0 0 13px;
+    background-color: #d2d6dc;
+}
+
+.my_contacts button {
+    margin: 0 0 73px 897px;
+    height: 46px;
+    width: 125px;
+    color: #fff;
+    background: none;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.icon {
+    padding: 0 0 67px 753px;
+}
+.icon img {
+    padding-right: 50px
+}
+.map {
+    background-color: #c9dfc0;
+    height: 350px;
+    text-align: center;
+    line-height: 350px;
+}
+.copyright {
+    height: 96px;
+    background: #354051;
+    text-align: center;
+    color: #fff;
+    line-height: 96px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
