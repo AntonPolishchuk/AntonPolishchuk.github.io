@@ -413,12 +413,13 @@ nav {
     padding: 0 0 0 13px;
     background-color: #d2d6dc;
 }
-.text {
+textarea {
     margin: 12px 0 28px 595px;
     width: 733px;
     height: 94px;
-    padding: 0 0 0 13px;
+    padding: 13px 0 0 13px;
     background-color: #d2d6dc;
+    color: #676769;
 }
 
 .my_contacts button {
